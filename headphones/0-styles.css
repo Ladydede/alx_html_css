@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    }
+
+ header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 100;
+    list-style: none;
+    
+ }
+
+ .links {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.link1 {
+    margin-right: 20px;
+}
+
+.lorem1 { 
+     text-align: center;
+     display: block;
+     width: 600px;
+     height: 300px;
+     padding-left: 380px;
+     
+
+}
+
+.button1 button {
+    
+    width: 162px;
+    height: 44px;
+    background-color: #ff6565;
+    outline: none;
+    border: none;
+    border-radius: 22px;
+    font-weight: 500;
+       color: white;
+       
+}
+
+.button1 {
+    margin-top: 30px;
+    
+}
+
+.lorem2 {
+    padding-top: 0%;
+}
+
+.whatwedo{
+     text-align: center;
+     width: 600px;
+     padding-left: 380px;
+     
+}
+
+.imagelist {
+      display: flex;
+      justify-content: center;
+      
+
+}
+
+.image {
+    width: 207px;
+    text-align: center;
+
+}
+
+.speak1 {
+    text-align: center;
+    display: block;
+    width: 600px;
+    padding-left: 380px;
+    
+}
+
+.speak2 {
+    text-align: center;
+    display: block;
+    width: 600px;
+    padding-left: 380px;
+}
+
+.image-container {
+    display: flex;
+    
+}
+
+.contact {
+    text-align: center;
+    display: block;
+    width: 600px;
+    padding-left: 380px;
+    
+}
+
+.form {
+    display: grid;
+    place-items: center;
+    height: 100%;
+}
+
+.button2 button {
+    width: 162px;
+    height: 44px;
+    background-color: #ff6565;
+    outline: none;
+    border: none;
+    border-radius: 22px;
+    font-weight: 500;
+    color: white;      
+}
+
+.button2 {
+    margin-top: 30px;
+    padding-left: 600px;
+    
+}     
+
+
+.copyright {
+    text-align: center;
+}
+
+.image-logo {
+    display: flex;
+    margin-left: 20px;
+    
+}
+
+.footer2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 0px;
+    list-style: none
+}
+
+.headerlogo {
+    padding-left: 100;
+}
+
+/*
+adding backgrounds
+   */
+
+.headphone1 {
+    background-image: url(./images/headphones_hero_1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   
+    width: 100%;
+   }
+
+.main-footer {
+    background-color: #071629;
+}
+
+
